@@ -1,6 +1,6 @@
 # CashGuardian
 
-Desenvolvimento de Sistemas  I - Universidade Presbiteriana Mackenzie
+Projeto de Desenvolvimento de Sistemas  I - Universidade Presbiteriana Mackenzie
 
 Danilo Oliveira Santos - 42281199 - 42281199@mackenzista.com.br
 
